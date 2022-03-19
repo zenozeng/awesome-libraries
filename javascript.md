@@ -8,4 +8,6 @@
 ## HTTP
 
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client,
-  written from scratch for Node.js (zero dependencies)
+  written from scratch for Node.js
+  - zero dependencies
+  - implements fetch
