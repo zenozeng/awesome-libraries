@@ -7,6 +7,11 @@
   - zero dependencies
   - internal randomness pool
 
+## Serialization
+
+- [google/flatbuffers](https://github.com/google/flatbuffers): Memory Efficient
+  Serialization Library
+
 ## WAF
 
 - [corazawaf/coraza](https://github.com/corazawaf/coraza): OWASP Coraza WAF is a
