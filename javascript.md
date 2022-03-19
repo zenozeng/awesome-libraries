@@ -1,5 +1,12 @@
 # JavaScript Libraries
 
+## Date
+
+- [date-fns/date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript
+  date utility library
+  - zero dependencies
+  - modular & supports tree-shaking
+
 ## Build tools
 
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build
